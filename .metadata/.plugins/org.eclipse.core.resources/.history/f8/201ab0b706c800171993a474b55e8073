@@ -8,7 +8,6 @@ System.out.println("Hola Mundo V3");
 System.out.println("Hola Mundo V3");
 
 System.out.println("Hola Mundo prueba3");
-System.out.println("nueva modificacion3");
 	}
 
 }
